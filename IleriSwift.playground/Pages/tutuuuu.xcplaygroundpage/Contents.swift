@@ -2,7 +2,7 @@ import UIkit
 
 func kisiTanima1(ad:String){
     if ad == "ahmet"{
-        print("selam ahmet")
+        print("selam aahmet")
     }
     else{
         print("tanınmayan kişi")
