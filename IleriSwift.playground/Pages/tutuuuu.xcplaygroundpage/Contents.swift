@@ -1,7 +1,7 @@
 import UIkit
 
 func kisiTanima1(ad:String){
-    if ad == "ahmet"{
+    if ad == "ahmetd"{
         print("selam aahmet")
     }
     else{
