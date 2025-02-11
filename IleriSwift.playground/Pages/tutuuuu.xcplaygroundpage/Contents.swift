@@ -5,7 +5,7 @@ func kisiTanima1(ad:String){
         print("selam aahmet")
     }
     else{
-        print("tanınmayan kişi")
+        print("tanınmayan kişid")
     }
 }
 
